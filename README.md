@@ -1,0 +1,3 @@
+## My Homebrew-cask casks sandbox tap
+
+Just some tests for some new casks for homebrew-cask... Following the README on the project page, it should be enough to add the tap to start messing with some new casks...
