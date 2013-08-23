@@ -3,5 +3,5 @@ class Comictagger < Cask
   homepage 'https://code.google.com/p/comictagger/'
   version '1.1.9-beta'
   sha1 'a98c730c2f41bec4c7b9ecfb57c13167f11bc6df'
-  link :none
+  link 'ComicTagger.app'
 end
