@@ -3,5 +3,6 @@ class EclipseJeeIde < Cask
   homepage 'http://eclipse.org'
   version '4.3.1'
   sha1 'eda969782c5de49b54fa1dacb5d59e7dd1be29a0'
+  nested_container 'eclipse-jee-ide-4.3.1.tar'
   link 'Eclipse.app'
 end
